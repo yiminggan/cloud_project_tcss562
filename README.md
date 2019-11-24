@@ -12,3 +12,5 @@ detector.py: Detector
 Inspector.py: copy from SAAF/python. For performance analysis
 
 Deploy zip file: SyringeDetector.zip
+
+Main.sh: run at local to obtain the object location information
